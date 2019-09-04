@@ -1,0 +1,465 @@
+{
+	type: 'FeatureCollection',
+	features: [{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [1.282, 52.069]
+		},
+		properties: {
+			title: 'RSPCA Suffolk East & Ipswich',
+			description: 'Animal Centre, Mill Lane, Martlesham, IP12 4PD'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [-1.375, 52.370]
+		},
+		properties: {
+			title: 'Lords Hill Cattery',
+			description: 'Lords Hill Farm, Coalpit Lane, Wolston, Coventry, CV8 3GB'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [-0.343, 52.725]
+		},
+		properties: {
+			title: 'RSPCA West Norfolk',
+			description: 'Eau Brink, Tilney All Saints, Norfolk, PE34 4SQ'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [-0.521, 52.355]
+		},
+		properties: {
+			title: 'Brook Farm Animal Sanctuary',
+			description: 'Brook Farm, Brooks Road, Raunds, NN9 6NS'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [1.394, 52.565]
+		},
+		properties: {
+			title: 'Hedgerows Cattery',
+			description: 'Hedgerows Cattery, Mill Road, Alpington, NR14 7PQ'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [-0.981, 48.493]
+		},
+		properties: {
+			title: 'Acorn Cattery & Kennels',
+			description: 'Acorn Kennels and Cattery, Le Château. 50640 Buais'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [-1.407, 53.227]
+		},
+		properties: {
+			title: 'RSPCA Chesterfield',
+			description: '137 Spital Ln, Chesterfield, S41 0HL'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [0.901, 51.889]
+		},
+		properties: {
+			title: 'Bundle Bengals (Breeders)',
+			description: 'Colchester, Essex, United Kingdom'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [-1.482, 52.921]
+		},
+		properties: {
+			title: 'RSPCA Derby',
+			description: '45 Abbey St, Derby, DE22 3SJ'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [-1.539, 53.728]
+		},
+		properties: {
+			title: 'RSPCA Leeds & Wakefield',
+			description: 'Moor Knoll Ln, East Ardsley, Wakefield, WF3 2DX'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [-1.298, 52.095]
+		},
+		properties: {
+			title: 'Katz Whiskerz',
+			description: '7 Bilney Road, Woodbridge, Suffolk, IP12 4HF'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [-2.957, 56.465]
+		},
+		properties: {
+			title: 'Cats Protection Dundee',
+			description: '102 Foundry Ln, Dundee, DD4 6AY'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [-0.155, 51.535]
+		},
+		properties: {
+			title: 'ZSL London Zoo',
+			description: 'Outer Cir, London, NW1 4RY'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [-4.003, 51.676]
+		},
+		properties: {
+			title: 'RSPCA Llys Nini',
+			description: 'Llys Nini, Penllergaer, Swansea, SA4 9WB'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [-1.306, 53.015]
+		},
+		properties: {
+			title: 'Cats at Ratcliffe Luxury Cat Hotel',
+			description: '6 Ratcliffe Street, Nottingham, NG16 3BN'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [-1.604, 53.749]
+		},
+		properties: {
+			title: 'Cats Protection Gildersome',
+			description: 'Barker Hill Cottage, Gildersome, LS27 7BN'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [-1.059, 53.994]
+		},
+		properties: {
+			title: 'Cats Protection York',
+			description: '582 Huntington Rd, Huntington, York, YO32 9QA'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [1.191, 52.693]
+		},
+		properties: {
+			title: 'Taverham Vets',
+			description: 'Fir Covert Rd, Norwich, Norfolk, NR8 6HT'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [-0.678, 52.285]
+		},
+		properties: {
+			title: 'Animals In Need',
+			description: 'Pine Tree Farm, London Road, Northamptonshire, NN8 2EH'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [0.961, 50.948]
+		},
+		properties: {
+			title: 'Westwinds Cattery',
+			description: '28 Taylor Rd, Romney Marsh TN29 9PA'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [-0.860, 53.963]
+		},
+		properties: {
+			title: 'Willow Tree Country Kennels',
+			description: 'Willow Tree Farm, Gowthorpe Ln, Fangfoss, York, YO41 5QL'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [-2.204, 52.152]
+		},
+		properties: {
+			title: 'RSPCA Worcester',
+			description: 'Holdings Lane, Kempsey, Worcestershire, WR5 3FP'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [-0.929, 52.340]
+		},
+		properties: {
+			title: 'RSPCA Northamptonshire',
+			description: 'Mill Cottage, Creaton Road, Northamptonshire, NN6 9BW'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [-2.986, 51.259]
+		},
+		properties: {
+			title: 'RSPCA North Somerset',
+			description: 'Brent Rd, Brent Knoll, Somerset, TA9 4BL'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [-3.076, 53.006]
+		},
+		properties: {
+			title: 'HMC Pet Care',
+			description: 'Ysgubor Ganol, Penycae, Wrexham, LL14 1UN'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [-1.961, 52.623]
+		},
+		properties: {
+			title: 'Spoilt Cats Cattery',
+			description: '20 Coronation Rd, Pelsall, Walsall, WS4 1BG'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [-2.937, 53.903]
+		},
+		properties: {
+			title: 'RSPCA Blackpool',
+			description: 'Old Toms Lane, Poulton le Fylde, FY6 0JR'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [1.149, 52.406]
+		},
+		properties: {
+			title: 'Lime Tree Cattery',
+			description: 'Sty View, Station Road, Burston, Norfolk, IP22 5UB'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [-0.569, 51.627]
+		},
+		properties: {
+			title: 'Lilys Luxury Cattery',
+			description: 'Bowstridge Lane, Chalfont St Giles, HP8 4QN'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [1.676, 52.431]
+		},
+		properties: {
+			title: 'Rushmere Boarding Kennels & Cattery',
+			description: 'Blowers Lane, Rushmere, Lowestoft, NR33 8EF'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [-0.712, 51.226]
+		},
+		properties: {
+			title: 'Hogs Back Luxury Boarding Cattery',
+			description: 'Talvern Cottage, Hogs Back, Seale GU10 1LA'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [-0.323, 51.880]
+		},
+		properties: {
+			title: 'Anastasias Cat Hotel',
+			description: 'White Cottage, Pasture Lane, Breachwood Green SG4 8NR'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [0.169, 51.418]
+		},
+		properties: {
+			title: 'Meow Manor Cattery',
+			description: '194 Birchwood Road, Dartford, Kent, DA2 7HA'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [-0.386, 51.891]
+		},
+		properties: {
+			title: 'Animals At Risk Shelter',
+			description: '341 Ashcroft Road, Luton Beds, LU2 9AE'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [-0.342, 53.767]
+		},
+		properties: {
+			title: 'RSPCA Hull & East Riding',
+			description: 'Clough Rd, Kingston upon Hull, HU6 7PE'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [-4.175, 50.508]
+		},
+		properties: {
+			title: 'Orestocks Boarding Kennels & Cattery',
+			description: 'Orestocks Boarding Kennels, Tavistock, Devon, PL19 8JN'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [0.919, 52.122]
+		},
+		properties: {
+			title: 'Clay Hill Cattery',
+			description: 'Clay Hill Cattery, Clay Hill Ln, Wattisham, Suffolk, IP7 7JS'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [-0.056, 51.345]
+		},
+		properties: {
+			title: 'Dulverton Lodge Cat Hotel',
+			description: '80 Dulverton Road, South Croydon, CR2 8PG'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [1.101, 51.929]
+		},
+		properties: {
+			title: 'Wisteria Cattery',
+			description: 'Windmill Rd, Bradfield, Manningtree CO11 2QR'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [-0.950, 51.142]
+		},
+		properties: {
+			title: 'Worldham Country Cattery',
+			description: 'The Wixes, Caker Ln, East Worldham, Alton GU34 3AB'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [-0.920, 53.581]
+		},
+		properties: {
+			title: 'Cherry Tree Farm Cattery',
+			description: 'Crow Tree Bank, Doncaster, DN8 5TF'
+		}
+	},
+	{
+		type: 'Feature',
+		geometry: {
+			type: 'Point',
+			coordinates: [-2.310, 53.482]
+		},
+		properties: {
+			title: 'RSPCA Manchester & Salford',
+			description: 'Westlink Business Park, James Corbett Road, Salford M50 1DE'
+		}
+	}
+	]
